@@ -3,7 +3,7 @@
 + 2022.7.11 ~ 2022.7.15
 
 ## 팀프로젝트
- + 총 5명 ( [본인](https://github.com/BaekKiYeol), [한태우](https://github.com/workhan0918), [이태영](https://github.com/leetaeyoung123) , [박상규](https://github.com/parkSangGyu98), [이성호](https://github.com/LeeSeongHo7984) )
++ 총 5명 ( [본인](https://github.com/BaekKiYeol) [이성호](https://github.com/LeeSeongHo7984) [이태영](https://github.com/wed456) [박상규](https://github.com/parkSangGyu98) [한태우](https://github.com/workhan0918))
 ## 사용한 기술 및 환경
 + Window
 + eclipse
