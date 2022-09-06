@@ -1,10 +1,9 @@
 # Ppumting (Ppumping Dating) 🏋️‍♀️
-+ 함께 운동하기를 원하는 사람들을 위한 만남 및 PT 서비스 제공 사이트
++ 함께 운동하기를 원하는 사람들을 위한 매칭 만남 및 온라인 PT 서비스 제공 사이트
 + 2022.7.11 ~ 2022.7.15
-+ 첫 팀프로젝트라 많이 부족한 점 이해해주시길 바랍니다 😥
+
 ## 팀프로젝트
  + 총 5명 ( [본인](https://github.com/BaekKiYeol), [한태우](https://github.com/workhan0918), [이태영](https://github.com/leetaeyoung123) , [박상규](https://github.com/parkSangGyu98), [이성호](https://github.com/LeeSeongHo7984) )
- + 
 ## 사용한 기술 및 환경
 + Window
 + eclipse
